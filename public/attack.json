@@ -1,0 +1,22 @@
+[
+  { "source": "Poland", "target": "Iraq", "type": "exploit" },
+  { "source": "Russia", "target": "Iraq", "type": "malware" },
+  { "source": "Oman", "target": "Iraq", "type": "exploit" },
+  { "source": "Venezuela", "target": "Iraq", "type": "phishing" },
+  { "source": "Greece", "target": "Iraq", "type": "exploit" },
+  { "source": "Japan", "target": "Iraq", "type": "malware" },
+  { "source": "Malaysia", "target": "Iraq", "type": "phishing" },
+  { "source": "Turkey", "target": "Iraq", "type": "phishing" },
+  { "source": "India", "target": "Iraq", "type": "phishing" },
+  { "source": "Argentina", "target": "Iraq", "type": "phishing" },
+  { "source": "Greece", "target": "Iraq", "type": "phishing" },
+  { "source": "Canada", "target": "Iraq", "type": "phishing" },
+  
+  { "source": "Norway", "target": "Iraq", "type": "phishing" },
+  { "source": "China", "target": "Iraq", "type": "malware" },
+  { "source": "Morocco", "target": "Iraq", "type": "phishing" },
+  { "source": "Mexico", "target": "Iraq", "type": "malware" },
+  { "source": "Norway", "target": "Iraq", "type": "malware" },
+  { "source": "Poland", "target": "Iraq", "type": "malware" },
+  { "source": "Jordan", "target": "Iraq", "type": "phishing" }
+]

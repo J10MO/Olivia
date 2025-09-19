@@ -705,7 +705,7 @@ const BeautyShopApp = () => {
   };
 
   return (
-    <div className="max-w-full mx-auto bg-gray-50 min-h-screen" dir="rtl">
+    <div className="max-w-full mx-auto bg-gray-50 min-h-screen pb-20" dir="rtl">
       {/* Enhanced Header */}
 <div 
   className="p-4 sticky top-0 z-30 shadow-xl" 

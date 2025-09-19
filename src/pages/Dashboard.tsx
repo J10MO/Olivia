@@ -113,7 +113,7 @@ const BeautyShopApp = () => {
 
   // Home Page Component
   const HomePage = () => (
-    <div className="pb-20 animate-fadeIn">
+    <div className=" ">
       {/* Hero Carousel */}
       <div className="relative overflow-hidden">
     <AdvertisementCarousel />
@@ -705,7 +705,7 @@ const BeautyShopApp = () => {
   };
 
   return (
-    <div className="max-w-sm mx-auto bg-gray-50 min-h-screen" dir="rtl">
+    <div className="max-w-fit mx-auto bg-gray-50 min-h-screen" dir="rtl">
       {/* Enhanced Header */}
 <div 
   className="p-4 sticky top-0 z-30 shadow-xl" 

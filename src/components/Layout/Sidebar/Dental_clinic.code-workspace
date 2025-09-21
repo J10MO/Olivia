@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Dental_clinic",
+			"path": "../../../.."
+		},
+		{
+			"name": "routes",
+			"path": "../../../../../react-vite-sidebar-app/routes"
+		}
+	],
+	"settings": {}
+}
